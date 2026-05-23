@@ -13,7 +13,8 @@
 
 Проект использует библиотеку antlr, при сборке проекта необходимо предварительно установить и собрать библиотеку.
 [Файл](https://github.com/StrelchenkoSofya/polynom/blob/main/polynom.g4) с используемой грамматикой прилагается.
-Просмотреть [лицензию](https://github.com/StrelchenkoSofya/polynom/blob/main/LICENSE).  
+Посмотреть [лицензию](https://github.com/StrelchenkoSofya/polynom/blob/main/LICENSE).
+
 Так же в проекте используется подключение гугл тестов.
 
 Ключевые слова
